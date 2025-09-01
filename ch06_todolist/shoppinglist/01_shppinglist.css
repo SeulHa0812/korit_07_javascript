@@ -11,5 +11,4 @@
 #price-input {
   /*얘가 더 디테일한 조건이기 때문에 input-group input과 동일한 속성이 있다면, 이 부분의 것이 적용됨*/
   flex-grow: 0.5;
-  
 }
